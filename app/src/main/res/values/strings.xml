@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Mock Phone Call</string>
+    <string name="mute">Mute</string>
+    <string name="keypad">Keypad</string>
+    <string name="speaker">Speaker</string>
+    <string name="video_call">Video Call</string>
+    <string name="ongoing_call">Ongoing call</string>
+    <string name="tap_to_return">Tap to return to the app</string>
+    <string name="not_implemented">Not implemented</string>
+</resources>

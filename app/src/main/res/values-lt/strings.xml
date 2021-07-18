@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mute">Užtildyti</string>
+    <string name="keypad">Klaviatūra</string>
+    <string name="speaker">Garsiakalbis</string>
+    <string name="video_call">Vaizdo pokalbis</string>
+    <string name="ongoing_call">Vykstantis pokalbis</string>
+    <string name="tap_to_return">Spauskite čia, kad sugrįžtumėte į programėlę</string>
+    <string name="not_implemented">Funkcija nepasiekiama</string>
+</resources>
